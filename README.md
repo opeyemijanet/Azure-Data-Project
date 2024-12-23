@@ -16,4 +16,4 @@ This project provides a comprehensive analysis of Ireland Brewery Subsidiary's s
 
 ## Repository Contents
 - `https://github.com/opeyemijanet/Azure-Data-Project/blob/main/SQL%20CODE%20brewry%20analysis.sql`: SQL scripts for data analysis.
-- `dashboard.png`: Screenshot of the Power BI dashboard.
+- `https://github.com/opeyemijanet/Azure-Data-Project/blob/main/Brewry%20Dashboard.JPG`: Screenshot of the Power BI dashboard.
